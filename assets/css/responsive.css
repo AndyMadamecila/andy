@@ -1,0 +1,26 @@
+@media screen and (max-width: 1200px){
+    body {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 992px){
+    body {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    body {
+        font-size: 10px;
+    }
+}
+
+/* ################################# */
+
+@media (max-width: 768px) {
+    #banner {
+        background-size: cover; /* Change background size to contain on smaller screens */
+        background-position: center; /* Center the background image */
+    }
+}
